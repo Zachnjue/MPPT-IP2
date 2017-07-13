@@ -1,0 +1,64 @@
+div
+{
+  margin: 0;
+  padding:0;
+  height: 135px;
+}
+#header
+{
+  background-image: url(background/landing.jpg);
+}
+img
+{
+  width: 250px;
+  height: 100px;
+  float: left;
+  margin-left:400px;
+  border-image-outset: 10px;
+  border-spacing: 15px;
+  border-image-width: auto;
+}
+
+#leftdiv
+{
+
+  float: left;
+  height: 200px;
+  width: 40%;
+  padding: 10px;
+  margin: 20px;
+
+}
+#rightdiv
+{
+  float: right;
+  padding: 10px;
+  margin: 20px;
+  margin-right: 400px;
+}
+#leftdiv1
+{
+
+  float: right;
+  height: 200px;
+  width: 20%;
+  padding: 10px;
+  margin: 20px;
+  margin-top: 80px;
+  margin-right: 400px;
+
+}
+#rightdiv1
+{
+  float: left;
+  padding:10px;
+  margin: 20px;
+  margin-left:400px;
+  margin-top: 20px;
+  text-align: justify;
+
+}
+footer
+{
+
+}
